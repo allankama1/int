@@ -21,8 +21,11 @@ class Parallelogram:Shape(){
 
 fun main() {
     var s =Shape()
+    s.draw()
 
     var r = Rhombus()
+    r.draw()
 
     var P = Parallelogram()
+    P.draw()
 }
